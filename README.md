@@ -77,6 +77,6 @@ The following HBV parameters are optimized during the calibration process:
 
 ## 🔗 Reference
 
-- [LuMod Documentation](https://github.com/hydrogo/lumod)
+- [LuMod Documentation](https://zaul_ae.gitlab.io/lumod-docs/)
 - [Optuna Documentation](https://optuna.org/)
 - [HBV Model Literature](https://www.geo.uzh.ch/dam/jcr:fb0a59f7-c54d-43ce-b3b3-e33ade4679eb/HBV_intro_lecture.pdf)
