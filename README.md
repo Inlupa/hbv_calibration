@@ -14,7 +14,7 @@ The notebook `kaz_hbv_optuna.ipynb` demonstrates the complete workflow of data p
 - Reading meteorological data (precipitation and temperature) from Excel files
 - Reading discharge observations for gauge stations
 - Data transformation and cleaning (handling missing values, date formatting)
-- HBV model setup using the [LuMod](https://github.com/hydrogo/lumod) library
+- HBV model setup using the [LuMod](https://pypi.org/project/lumod/) library
 - Definition of parameter ranges for calibration (snow parameters, recession coefficients, soil storage parameters, etc.)
 - Automated model calibration using **Optuna** with **TPE (Tree-structured Parzen Estimator)** and **CMA** sampler
 - Multi-objective optimization with RMSE as the primary metric
