@@ -4,7 +4,7 @@ This repository contains an implementation of the conceptual hydrological **HBV*
 
 ## 📁 Repository Structure
 ├── data/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Meteorological and hydrological data<br>
-└── results/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Output alibration results
+└── result/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Output alibration results
 ---
 
 ## 🌀 HBV Model Implementation with LuMod (Python)
