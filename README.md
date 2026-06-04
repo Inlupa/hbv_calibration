@@ -51,7 +51,6 @@ The following HBV parameters are optimized during the calibration process:
 - **Python 3.12** - Core programming language
 - **LuMod** - HBV model implementation
 - **Optuna** - Hyperparameter optimization framework
-- **TPESampler** - Bayesian optimization algorithm
 - **MLflow** - Experiment tracking and logging
 - **pandas, numpy** - Data manipulation
 - **scikit-learn** - Performance metrics (RMSE, MAE)
